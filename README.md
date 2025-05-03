@@ -7,4 +7,4 @@ My primary interests lie at the intersection of **Statistical Learning** and **M
 * 💻 I primarily code in **Python** and utilize tools like **LaTeX** and **Typst** for academic work.
 * 📚 Continuously developing my skills in AI concepts and practical implementation.
 
-Feel free to look around! Contact me at **Discord**: nutbred or Email: khanhnq2908@gmail.com
+Feel free to look around! Contact me at **Discord**: nutbred or **Email**: khanhnq2908@gmail.com
